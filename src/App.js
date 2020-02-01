@@ -3,7 +3,6 @@ import { Editor, EditorState, RichUtils } from "draft-js";
 import InlineStyleControls from "./components/inline";
 import BlockStyleControls from "./components/block";
 import "./App.css";
-
 class App extends Component {
   constructor(props) {
     super(props);
